@@ -1,0 +1,48 @@
+Provincia de Buenos Aires
+	51904
+Ciudad de Buenos Aires
+	15453
+Provincia de Córdoba
+	6135
+Provincia de Santa Fe
+	7660
+Provincia de Tucumán
+	3042
+Provincia de Mendoza
+	3899
+Entre Ríos
+	2129
+Neuquén
+	2131
+Corrientes
+	1307
+Río Negro
+	2192
+Provincia del Chaco
+	2014
+Provincia de San Luis
+	1197
+Chubut
+	1394
+Salta
+	2071
+Santiago del Estero
+	941
+Provincia de San Juan
+	1034
+La Pampa
+	788
+Santa Cruz
+	949
+Provincia de Formosa
+	1048
+Catamarca
+	603
+Jujuy
+	1390
+Misiones
+	625
+Tierra del Fuego
+	459
+La Rioja
+	917
